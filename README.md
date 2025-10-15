@@ -58,13 +58,10 @@ Review Table with Conditional Formatting
 
 🖼️ Sample Visualizations
 
-📷 Sentiment Distribution (Power BI)
 <img width="710" height="413" alt="image" src="https://github.com/user-attachments/assets/f9d806f3-29d9-4956-af45-cd4cec5e5f93" />
 
-📷 WordCloud of Positive Reviews
 <img width="805" height="359" alt="image" src="https://github.com/user-attachments/assets/894b2d3b-f7f9-44ea-a597-a94b8654af79" />
 
-📷 Confusion Matrix Heatmap
 <img width="427" height="325" alt="image" src="https://github.com/user-attachments/assets/1e7a1e19-79fb-4343-896a-2354748006eb" />
 
 
