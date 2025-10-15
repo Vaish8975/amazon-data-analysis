@@ -3,7 +3,7 @@
 A data analysis and sentiment prediction project analyzing Amazon customer reviews using Python for text processing, machine learning, and visualization — and Power BI for building an interactive dashboard to explore customer sentiment trends.
 
 📁 Project Structure
-Amazon Reviews Sentiment Analysis/
+Amazon Reviews Sentiment Analysis
 │
 ├── 4. Scripts/                 # Final Python scripts for analysis and modeling
 Did not add data and .pbix file due to file size
